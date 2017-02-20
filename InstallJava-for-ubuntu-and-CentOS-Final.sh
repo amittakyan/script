@@ -16,5 +16,4 @@ wget --no-cookies \
 tar -xzvf jdk-8u111-linux-x64.tar.gz -C /usr/local/
 
 
-fi
 
